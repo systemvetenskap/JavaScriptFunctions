@@ -1,4 +1,4 @@
-# MIUN 'Interaktiva Webbapplikationer' JavaScript Labb om funktioner
+# JavaScript labb 1, funktioner
 
 För att den här labben ska fungera måste du ha installerat node på din dator.
 [https://nodejs.org/en/download/](https://nodejs.org/en/download/)
