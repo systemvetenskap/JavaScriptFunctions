@@ -39,7 +39,7 @@ när du skrev npm install bör du samtidigt ha installerat testramverket Jest.
 
 1. För att köra ett test kan du skriva `npm run test` i terminalen. Då körs testerna och du får se resultatet i terminalen.. 
 
-Tips! Du kan installera Jest som ett globalt npm paket `npm install jest --global`. När detta är gjort kan du köra testerna kontinuerligt `jest --watchAll`.
+Tips! Du kan köra testerna kontinuerligt med kommandot  `jest --watchAll`.
 
 
 
